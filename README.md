@@ -2,6 +2,8 @@
 
 Reads [Singer](https://singer.io) formatted data from stdin and persists it to the [Magento Business Intelligence Import API](http://developers.rjmetrics.com/).
 
+Author: Robert Moore (rmoore@magento.com)
+
 ## Install
 
 Requires Python 3
@@ -32,3 +34,6 @@ Create config file to contain your Magento BI client id and api key:
 
 where `tap-some-api` is [Singer Tap](https://singer.io).
 
+---
+
+Copyright &copy; 2017 Stitch
